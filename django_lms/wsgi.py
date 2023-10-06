@@ -15,4 +15,5 @@ os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'django_lms.settings')
 
 application = get_wsgi_application()
 
-app = application
+
+
