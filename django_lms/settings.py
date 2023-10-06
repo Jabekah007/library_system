@@ -25,7 +25,7 @@ my_secret = os.environ['SECRET_KEY']
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://librarysystem.justiceabekah.repl.co','*']
+ALLOWED_HOSTS = ['.vercel.app','https://librarysystem.justiceabekah.repl.co','*']
 
 
 # Application definition
